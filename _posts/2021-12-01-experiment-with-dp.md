@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Experiment with Differential Privacy using IBM's Diffprivlib"
-date:   2021-12-05 23:10:00
+date:   2021-12-01 23:10:00
 blurb: "About the project"
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
