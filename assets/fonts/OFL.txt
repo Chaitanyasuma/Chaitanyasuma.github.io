@@ -1,4 +1,4 @@
-Copyright 2016 The Roboto Project Authors (https://github.com/EbenSorkin/Roboto), with Reserved Font Name "Roboto".
+Copyright 2016 The Charter, Georgia, Helvetica, Arial, sans-serif; Project Authors (https://github.com/EbenSorkin/Charter, Georgia, Helvetica, Arial, sans-serif;), with Reserved Font Name "Charter, Georgia, Helvetica, Arial, sans-serif;".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
