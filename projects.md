@@ -31,7 +31,7 @@ items:
     image:
       src: /assets/img/projects/5.png
       alt: sand
-      href: https://chaitanyasuma.github.io/2021/12/05/Ummeed
+      href: https://chaitanyasuma.github.io/2021/12/05/ummeed
     description:
 ---
 <br />
