@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Post example"
-date:   2019-10-26 10:00:40
-blurb: "A look at an example post using Bay Jekyll theme."
+title:  "Experiment with Differential Privacy using IBM's Diffprivlib"
+date:   2021-12-05 23:10:00
+blurb: "About the project"
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
 

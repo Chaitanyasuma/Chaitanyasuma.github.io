@@ -14,7 +14,7 @@ profile_picture:
 </div>
 </p>
 <div align="justify">
-  My hobbies include graphic designing, digital art, painting, and reading. Occassionally, I write.
+  My hobbies include graphic designing, digital art, photography, painting, and reading. Occassionally, I write.
 </div>
 <br>
 
