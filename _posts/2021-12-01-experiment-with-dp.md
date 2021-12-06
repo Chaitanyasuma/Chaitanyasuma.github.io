@@ -2,54 +2,82 @@
 layout: post
 title:  "Experiment with Differential Privacy using IBM's Diffprivlib"
 date:   2021-12-01 23:10:00
-blurb: "About the project"
-og_image: /assets/img/content/post-example/Banner.jpg
+blurb: "About"
 ---
-
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
-<br />
-<br />
-
-This is an example of blog post.
-Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum[^1].
+Under IBM India's Global Remote Mentoring Program, I participated in an open-source project on 'Experimenting with Differential Privacy using IBM's Diffprivlib' between September 2020 - August 2021.
 
 <br />
 
 
 #### Table of Contents
-1. [Part 1](#part-1)
-2. [Part 2](#part-2)
-    * [Part 2 Sub-part 1](#part-2-sub-part-1)
-    * [Part 2 Sub-part 2](#part-2-sub-part-2)
-3. [Footnotes](#footnotes)
+1. [About](#about)
+    * [Background](#about)
+    * [Our Contributions](#our-contributions)
+3. [Important Links](#important-links)
 
-#### PART 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#### About
+
+**Guides**
+- Ms. Seetha Subramaniam, IBM
+- Ms. Deepshikha Sinha, IBM
+- Prof. Ashutosh Muchrikar, CCEW
+
+**Teammates**
+- Atmaja Jape, CCEW
+- Tanya Sikarwar, CCEW
 <br />
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<br />
-<br />
-
-#### PART 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<br />
-
-##### PART 2 SUB PART 1
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+##### Background
 
 <br />
 
-##### PART 2 SUB PART 2
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Differential privacy addresses the paradox of learning nothing about an individual while learning useful information about a population. Essentially, it is a definition that formalizes the idea that a query should not reveal whether any one person is present in a dataset, much less what their data are.
+
+Some important terms used in Differential Privacy -
+1. Sensitivty
+2. Privacy Loss
+3. Privacy Budget
+4. Mechanism
+
+Refer [this section](#important-links) for more information on Differential Privacy.
 
 <br />
+<br />
 
+##### Our Contributions
 
-##### FOOTNOTES
+During the course of this project, we worked on the following -
 
-[^1]: This is a note!
+1. Extending the functionality of Diffprivlib
+
+Implemented the following differentially private statistical utilities and data visualization tools:
+* Percentiles
+* Median
+* Interquartile Range
+* Frequency Polygon
+* Bivariate Histogram
+<br />
+
+2. Demonstrating privacy-preserving data analysis for real-world use cases
+
+Using the U.S. Census Bureau dataset, we performed a case study for analysing the algorithms.
+
+3. Promoting the use of IBM’s Open Source library, Diffprivlib, in an accessible manner
+
+Built a User Interface to expose our implementations using Python StreamLit.
+<img src="{{ "/assets/img/content/diffpriv/diffpriv.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+
+4. Enabling data analysts to experiment, investigate and develop applications using differential privacy
+
+We performed an extensive empirical analysis of different percentile calculation methods, including our own extended Optimal Histogram method.
+<br />
+
+We also presented our work to Security Division, IBM Bangalore, and Dr. Naoise Holohan.
+
+##### Important Links
+
+1. [IBM Global Remote Mentoring Program](http://connecttobuild.in/)
+2. [IBM's Diffprivlib](https://github.com/IBM/differential-privacy-library)
+3. [The Definition of Differential Privacy, Cynthia Dwork](https://www.youtube.com/watch?v=lg-VhHlztqo)
+4. [CS 860 - Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html)
+5. [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
