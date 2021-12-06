@@ -9,13 +9,13 @@ Under IBM India's Global Remote Mentoring Program, I participated in an open-sou
 <br />
 
 
-#### Table of Contents
+### Table of Contents
 1. [About](#about)
     * [Background](#about)
     * [Our Contributions](#our-contributions)
 3. [Important Links](#important-links)
 
-#### About
+### About
 
 **Guides**
 - Ms. Seetha Subramaniam, IBM
@@ -27,7 +27,7 @@ Under IBM India's Global Remote Mentoring Program, I participated in an open-sou
 - Tanya Sikarwar, CCEW
 <br />
 
-##### Background
+#### Background
 
 <br />
 
@@ -44,7 +44,7 @@ Refer [this section](#important-links) for more information on Differential Priv
 <br />
 <br />
 
-##### Our Contributions
+#### Our Contributions
 
 During the course of this project, we worked on the following -
 
@@ -65,7 +65,7 @@ Using the U.S. Census Bureau dataset, we performed a case study for analysing th
 3. Promoting the use of IBM’s Open Source library, Diffprivlib, in an accessible manner
 
 Built a User Interface to expose our implementations using Python StreamLit.
-<img src="{{ "/assets/img/content/diffpriv/diffpriv.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="/assets/img/content/diffpriv/diffpriv.png" alt="bay" class="post-pic"/>
 
 4. Enabling data analysts to experiment, investigate and develop applications using differential privacy
 
@@ -74,7 +74,7 @@ We performed an extensive empirical analysis of different percentile calculation
 
 We also presented our work to Security Division, IBM Bangalore, and Dr. Naoise Holohan.
 
-##### Important Links
+#### Important Links
 
 1. [IBM Global Remote Mentoring Program](http://connecttobuild.in/)
 2. [IBM's Diffprivlib](https://github.com/IBM/differential-privacy-library)
