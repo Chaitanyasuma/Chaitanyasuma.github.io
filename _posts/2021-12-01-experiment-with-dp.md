@@ -6,14 +6,12 @@ blurb: "About"
 ---
 Under IBM India's Global Remote Mentoring Program, I participated in an open-source project on 'Experimenting with Differential Privacy using IBM's Diffprivlib' between September 2020 - August 2021.
 
-<br />
-
-
 ### Table of Contents
+
 1. [About](#about)
     * [Background](#about)
     * [Our Contributions](#our-contributions)
-3. [Important Links](#important-links)
+2. [Important Links](#important-links)
 
 ### About
 
@@ -29,20 +27,15 @@ Under IBM India's Global Remote Mentoring Program, I participated in an open-sou
 
 #### Background
 
-<br />
-
 Differential privacy addresses the paradox of learning nothing about an individual while learning useful information about a population. Essentially, it is a definition that formalizes the idea that a query should not reveal whether any one person is present in a dataset, much less what their data are.
 
 Some important terms used in Differential Privacy -
-1. Sensitivty
+1. Sensitivity
 2. Privacy Loss
 3. Privacy Budget
 4. Mechanism
 
 Refer [this section](#important-links) for more information on Differential Privacy.
-
-<br />
-<br />
 
 #### Our Contributions
 
@@ -50,27 +43,27 @@ During the course of this project, we worked on the following -
 
 1. Extending the functionality of Diffprivlib
 
-Implemented the following differentially private statistical utilities and data visualization tools:
-* Percentiles
-* Median
-* Interquartile Range
-* Frequency Polygon
-* Bivariate Histogram
-<br />
+  Implemented the following differentially private statistical utilities and data visualization tools:
+  * Percentiles
+  * Median
+  * Interquartile Range
+  * Frequency Polygon
+  * Bivariate Histogram
 
 2. Demonstrating privacy-preserving data analysis for real-world use cases
 
-Using the U.S. Census Bureau dataset, we performed a case study for analysing the algorithms.
+  Using the U.S. Census Bureau dataset, we performed a case study for analysing the algorithms.
 
 3. Promoting the use of IBM’s Open Source library, Diffprivlib, in an accessible manner
 
-Built a User Interface to expose our implementations using Python StreamLit.
-<img src="/assets/img/content/diffpriv/diffpriv.png" alt="bay" class="post-pic"/>
+  Built a User Interface to expose our implementations using Python StreamLit.
+
+  <img src="/assets/img/content/diffpriv/diffpriv.png" alt="bay" class="post-pic"/>
 
 4. Enabling data analysts to experiment, investigate and develop applications using differential privacy
 
-We performed an extensive empirical analysis of different percentile calculation methods, including our own extended Optimal Histogram method.
-<br />
+  We performed an extensive empirical analysis of different percentile calculation methods, including our own extended Optimal Histogram method.
+  <br />
 
 We also presented our work to Security Division, IBM Bangalore, and Dr. Naoise Holohan.
 
