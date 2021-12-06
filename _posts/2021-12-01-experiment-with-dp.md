@@ -41,7 +41,7 @@ Refer [this section](#important-links) for more information on Differential Priv
 
 During the course of this project, we worked on the following -
 
-1. Extending the functionality of Diffprivlib
+* Extending the functionality of Diffprivlib
 
   Implemented the following differentially private statistical utilities and data visualization tools:
   * Percentiles
@@ -50,17 +50,17 @@ During the course of this project, we worked on the following -
   * Frequency Polygon
   * Bivariate Histogram
 
-2. Demonstrating privacy-preserving data analysis for real-world use cases
+* Demonstrating privacy-preserving data analysis for real-world use cases
 
   Using the U.S. Census Bureau dataset, we performed a case study for analysing the algorithms.
 
-3. Promoting the use of IBM’s Open Source library, Diffprivlib, in an accessible manner
+* Promoting the use of IBM’s Open Source library, Diffprivlib, in an accessible manner
 
   Built a User Interface to expose our implementations using Python StreamLit.
 
   <img src="/assets/img/content/diffpriv/diffpriv.png" alt="bay" class="post-pic"/>
 
-4. Enabling data analysts to experiment, investigate and develop applications using differential privacy
+* Enabling data analysts to experiment, investigate and develop applications using differential privacy
 
   We performed an extensive empirical analysis of different percentile calculation methods, including our own extended Optimal Histogram method.
   <br />
