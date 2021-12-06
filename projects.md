@@ -32,7 +32,7 @@ items:
       src: /assets/img/projects/5.png
       alt: sand
       href: https://chaitanyasuma.github.io/2021/12/05/ummeed
-    description:
+    description: As part of the NASA Space Apps Challenge, implemented a web-based application to register humanitarian crises information and spread awareness about them
 ---
 <br />
 <br />
