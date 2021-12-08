@@ -21,12 +21,12 @@ items:
       alt: sand
       href: https://chaitanyasuma.github.io/2021/12/03/KCC-analysis
     description: Data Preprocessing for the Kisan Call Centre Dataset. Implementation of a Document Similarity (TF-IDF) model for automatic selection of QueryType from QueryText in the dataset to minimise manual entry errors
+  - title: Early Warning System for Epidemics
     image:
       src: /assets/img/projects/4.png
       alt: sand
       href: https://chaitanyasuma.github.io/2021/12/04/EWS-for-epidemics
     description: Design and proposal of a circular, smart system involving participation of the government, health services and citizens, via a mobile application, with the analysis of the collected data being performed in a hierarchical manner in cloud storage
-  - title: Early Warning System for Epidemics
   - title: Ummeed - A Vehicle for Social Change
     image:
       src: /assets/img/projects/5.png
