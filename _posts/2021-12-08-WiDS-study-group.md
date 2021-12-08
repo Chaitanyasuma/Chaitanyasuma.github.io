@@ -56,7 +56,7 @@ In addition to the ones above, I was part of discussions on other DV Tools inclu
 
 Interestingly, I was able to use and extend the knowledge I gained through this study during my Senior Year project on Differential Privacy. We proposed differentially private DV Tool release, specifically working on Frequency Polygons and Bivariate Histograms.
 
-### links
+### Links
 
 * [About WiDS](https://www.widsconference.org/about.html)
 * [WiDS Pune](https://widspune.com/)

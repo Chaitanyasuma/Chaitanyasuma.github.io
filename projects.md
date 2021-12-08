@@ -14,13 +14,13 @@ items:
       src: /assets/img/projects/2.png
       alt: sand
       href: https://chaitanyasuma.github.io/2021/12/02/genre-classification
-    description:
+    description: Feature investigation and genre classification to explore the differences between summaries and text documents using a simple linguistic approach
   - title: Analysis of Kisan Call Centre Queries
     image:
       src: /assets/img/projects/3.png
       alt: sand
       href: https://chaitanyasuma.github.io/2021/12/03/KCC-analysis
-    description:
+    description: Design and proposal of a circular, smart system involving participation of the government, health services and citizens, via a mobile application, with the analysis of the collected data being performed in a hierarchical manner in cloud storage
   - title: Early Warning System for Epidemics
     image:
       src: /assets/img/projects/4.png
