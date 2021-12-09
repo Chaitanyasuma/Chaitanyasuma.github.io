@@ -35,6 +35,8 @@ In order to address the issue, we proposed automatic selection of Query Type fro
 1. Document similarity using TF-IDF and K-Means clustering
 2. Word-based Embeddings
 
+We presented our work to students of Duale Hochschule Baden-Württemberg (DHBW) Stuttgart and received a positive response from them about our work!
+
 We documented our findings and they were published in the Springer book on [Open Data for Sustainable Community](https://link.springer.com/book/10.1007/978-981-33-4312-2).
 
 PS: You can find my name in the list of Contributors :)
