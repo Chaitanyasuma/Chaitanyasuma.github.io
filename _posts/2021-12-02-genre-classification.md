@@ -8,17 +8,20 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <br />
 #### Table of Contents
 1. [About](#about)
-2. [Footnotes](#footnotes)
-
+2. [Links](#links)
 #### About
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<br />
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As part of this project, I worked on exploring stylistic tendencies for book summarization.
 
-<br />
-<br />
+Mainly, I was involved in
+* Part-of-Speech tagging using Stanford Tagger in Java
+* Data Preprocessing for the CMU and Brown Corpus
+* Feature Investigation using Visualisation
+* Clustering to derive a Genre Category Score
+* Genre Classification for shorter text documents ranging from 150 - 600 words in length
 
-##### FOOTNOTES
+#### links
 
-[^1]: This is a note!
+1. [Brown Corpus](https://www.kaggle.com/nltkdata/brown-corpus)
+2. [CMU Corpus](https://www.cs.cmu.edu/~dbamman/booksummaries.html)
+3. [Stanford Tagger](https://nlp.stanford.edu/software/tagger.shtml)
