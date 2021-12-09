@@ -38,7 +38,7 @@ The theme of the conference was "Systems for Transforming India : Challenges & O
 
 We completed our presentation on the 27th of September, 2019!
 
-<img src="/assets/img/content/INAC/groupphoto.png" alt="bay" class="post-pic"/>
+<img src="/assets/img/content/INAC/groupphoto.jpg" alt="bay" class="post-pic"/>
 
 <img src="/assets/img/content/INAC/ourteam.jpg" alt="bay" class="post-pic"/>
 

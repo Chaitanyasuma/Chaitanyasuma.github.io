@@ -19,6 +19,8 @@ Women in Data Science Conference (WiDS) is a Stanford University initiative for 
 
 The Women in Data Science Conference was held in Pune for the first time, with Ms. Sucheta Dhere as the ambassador.
 
+You can watch me talking about my experience [here](https://www.youtube.com/watch?v=zpA_GSZhoHE).
+
 ### Volunteering
 
 I was a volunteer for WiDS 2019 as an Organising Committee member, and WiDS 2020 as part of a group study on Data Visualisation tools.
