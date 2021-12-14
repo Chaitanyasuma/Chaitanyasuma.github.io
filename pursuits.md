@@ -8,14 +8,14 @@ slug: /pursuits
 
 ## Photography
 
-<img src="/assets/img/gallery/photography/1.jpg" width="300px" height="100px"/>&nbsp; &nbsp; &nbsp;
-<img src="/assets/img/gallery/photography/2.jpg" width="300px" height="100px"/>
+<img src="/assets/img/gallery/photography/1.png" width="300px" height="100px"/>&nbsp; &nbsp; &nbsp;
+<img src="/assets/img/gallery/photography/2.png" width="300px" height="100px"/>
 
-<img src="/assets/img/gallery/photography/3.jpg" width="300px" height="100px"/>&nbsp; &nbsp; &nbsp;
+<img src="/assets/img/gallery/photography/3.png" width="300px" height="100px"/>&nbsp; &nbsp; &nbsp;
 
 
-<img src="/assets/img/gallery/photography/4.jpg" width="250px" height="150px"/>
-<img src="/assets/img/gallery/photography/5.jpg" width="250px" height="150px"/>
+<img src="/assets/img/gallery/photography/4.png" width="250px" height="150px"/>
+<img src="/assets/img/gallery/photography/5.png" width="250px" height="150px"/>
 
 
 ## Art
