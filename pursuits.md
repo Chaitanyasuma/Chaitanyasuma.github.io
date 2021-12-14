@@ -33,10 +33,10 @@ slug: /pursuits
 
 * [my life, like a cycle]()
 
-<div href="class="card" onclick="https://chaitanyasuma.github.io/2021/11/10/poem1">
-  <img src="img_avatar.png" alt="Avatar" style="width:100%">
+<div "class="card" onclick="https://chaitanyasuma.github.io/2021/11/10/poem1">
+  <img src="/assets/img/content/others/1.jpg" alt="Avatar" style="width:100%">
   <div class="container">
-    <h4><b>John Doe</b></h4>
-    <p>Architect & Engineer</p>
+    <h4><b>1</b></h4>
+    <p>to my cycle, with love</p>
   </div>
 </div>
