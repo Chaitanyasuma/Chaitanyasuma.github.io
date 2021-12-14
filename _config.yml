@@ -14,6 +14,7 @@ header:
       slug: /
     - name: Projects
     - name: Blog
+    - name: Pursuits
 
 footer:
   show_powered_by: true
