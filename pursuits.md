@@ -18,4 +18,6 @@ slug: /pursuits
 <img src="/assets/img/gallery/art/3.png" width="300px" height="100px"/>&nbsp; &nbsp; &nbsp;
 <img src="/assets/img/gallery/art/4.png" width="300px" height="100px"/>
 
+<img src="/assets/img/gallery/art/5.png" width="250px" height="150px"/>
+
 ## Poetry
