@@ -32,4 +32,4 @@ slug: /pursuits
 ## Musings
 
 * [my life, like a cycle](https://chaitanyasuma.github.io/2021/11/10/poem1)
-* [took a detour, ran into my city](https://chaitanyasuma.github.io/2021/11/10/poem1)
+* [took a detour, ran into my city](https://chaitanyasuma.github.io/2021/11/10/to-my-city)
