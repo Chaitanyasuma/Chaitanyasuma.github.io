@@ -4,8 +4,8 @@
 
 ### Files
 
-_config.yml contains basic information + footer
-every md file contains info for that page
+- _config.yml contains basic information + footer
+- every md file contains info for that page
 
 ### Blogs
 

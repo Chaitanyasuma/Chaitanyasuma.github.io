@@ -71,6 +71,16 @@
   height: auto;
 }
 
+.gallery-wide {
+  width: 100%;
+  height: 20px;
+}
+
+.gallery-tall {
+  width: 33%;
+  height: 40px;
+}
+
 .magnify {
   cursor: zoom-in;
 }
