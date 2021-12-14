@@ -31,12 +31,5 @@ slug: /pursuits
 
 ## Musings
 
-* [my life, like a cycle]()
-
-<div class="card" onclick="https://chaitanyasuma.github.io/2021/11/10/poem1">
-  <img src="/assets/img/content/others/1.jpg" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>1</b></h4>
-    <p>to my cycle, with love</p>
-  </div>
-</div>
+* [my life, like a cycle](https://chaitanyasuma.github.io/2021/11/10/poem1)
+* [took a detour, ran into my city](https://chaitanyasuma.github.io/2021/11/10/poem1)
