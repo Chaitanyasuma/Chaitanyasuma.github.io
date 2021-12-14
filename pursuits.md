@@ -28,4 +28,6 @@ slug: /pursuits
 
 <img src="/assets/img/gallery/art/5.png" width="250px" height="150px"/>
 
-## Poetry
+## Musings
+
+* [my life, like a cycle]()
