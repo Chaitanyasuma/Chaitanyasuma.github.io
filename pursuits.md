@@ -12,10 +12,10 @@ slug: /pursuits
 
 ## Art
 
-<img src="/assets/img/gallery/art/2.jpg" width="16px" height="10px"/>
-<img src="/assets/img/gallery/art/3.jpg" alt="bay" class="gallery-wide"/>
-<img src="/assets/img/gallery/art/4.jpg" alt="bay" class="gallery-wide"/>
-<img src="/assets/img/gallery/art/5.jpg" alt="bay" class="gallery-wide"/>
-<img src="/assets/img/gallery/art/1.jpg" alt="bay" class="gallery-tall"/>
+<img src="/assets/img/gallery/art/2.jpg" width="160px" height="100px"/>
+<img src="/assets/img/gallery/art/3.jpg" width="160px" height="100px"/>
+<img src="/assets/img/gallery/art/4.jpg" width="160px" height="100px"/>
+<img src="/assets/img/gallery/art/5.jpg" width="160px" height="100px"/>
+<img src="/assets/img/gallery/art/1.jpg" width="140px" height="200px"/>
 
 ## Poetry
