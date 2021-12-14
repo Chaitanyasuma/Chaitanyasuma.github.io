@@ -19,5 +19,3 @@ slug: /pursuits
 <img src="/assets/img/gallery/art/1.jpg" alt="bay" class="gallery-tall"/>
 
 ## Poetry
-
-## Graphics
