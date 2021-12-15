@@ -52,7 +52,7 @@ In particular, I studied the following tools -
 6. Kagi Chart
 7. Candlestick Chart
 
-I have compiled my studies in this [repository](https://github.com/Chaitanyasuma/DVTools).
+<!-- I have compiled my studies in this [repository](https://github.com/Chaitanyasuma/DVTools). -->
 
 In addition to the ones above, I was part of discussions on other DV Tools including - Box plots, Violin charts, Sunburst diagrams, Waterfall charts, Scatter plots, Bubble charts, Ternary Contour plots, Hexagonal Binning, Chernoff Faces, Molecule Diagrams, Clustered Force Layouts.
 
