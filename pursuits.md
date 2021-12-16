@@ -31,15 +31,20 @@ slug: /pursuits
 
 ## Writing
 
-* [my life, like a cycle](https://chaitanyasuma.github.io/2021/11/10/poem1)
-* [took a detour, ran into my city](https://chaitanyasuma.github.io/2021/11/10/to-my-city)
-
-<a href="https://chaitanyasuma.github.io/2021/11/10/to-my-city">
-  <div class="pursuits-card" style="width:20%; height:20%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px;">
-    <img src="/assets/img/content/others/2.jpg" class="pursuits-card-img" alt="Avatar" style="width:100%;height:100%">
-    <div class="pursuit-container" style="padding: 2px 16px;">
-      <h4><b>I</b></h4>
-      <p>took a detour, ran into my city</p>
-    </div>
+<div onclick="window.location='https://chaitanyasuma.github.io/2021/11/10/to-my-city';" class="pursuits-card" style="width:40%; height:10%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; cursor: pointer;">
+  <img src="/assets/img/content/others/2.jpg" class="pursuits-card-img" alt="Avatar" style="width:100%;height:100%">
+  <div class="pursuit-container" style="padding: 2px 16px;">
+    <h4><b>Musings I</b></h4>
+    <p>took a detour, ran into my city</p>
   </div>
-</a>
+</div>  
+
+<br/>
+
+<div onclick="window.location='https://chaitanyasuma.github.io/2021/11/10/poem1';" class="pursuits-card" style="width:40%; height:10%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; border-radius: 5px; cursor: pointer;">
+  <img src="/assets/img/content/others/1.jpg" class="pursuits-card-img" alt="Avatar" style="width:100%;height:100%">
+  <div class="pursuit-container" style="padding: 2px 16px;">
+    <h4><b>Poetry I</b></h4>
+    <p>my life, like a cycle</p>
+  </div>
+</div>
