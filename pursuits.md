@@ -29,7 +29,15 @@ slug: /pursuits
 
 <img src="/assets/img/gallery/art/5.png" width="250px" height="150px"/>
 
-## Musings
+## Writing
 
 * [my life, like a cycle](https://chaitanyasuma.github.io/2021/11/10/poem1)
 * [took a detour, ran into my city](https://chaitanyasuma.github.io/2021/11/10/to-my-city)
+
+<div class="pursuits-card" href="https://chaitanyasuma.github.io/2021/11/10/to-my-city">
+  <img src="/assets/img/content/others/2.jpg" class="pursuits-card-img" alt="Avatar" style="width:100%;height:" href="https://chaitanyasuma.github.io/2021/11/10/to-my-city">
+  <div class="pursuit-container" href="https://chaitanyasuma.github.io/2021/11/10/to-my-city">
+    <h4><b>I</b></h4>
+    <p>took a detour, ran into my city</p>
+  </div>
+</div>
