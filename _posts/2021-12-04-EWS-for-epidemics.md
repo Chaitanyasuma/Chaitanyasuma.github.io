@@ -32,7 +32,7 @@ You may not believe it but we worked on this subject pre-COVID-19. Later on, we 
 
 ##### S3 INAC 2019
 
-We were selected to present our work at the Students' Special Symposium Indian Society Of Systems For Science And Engineering (ISSE) National Conference-4 (INAC) at Space Application Centre,  Indian Space Research Organisation (ISRO), Ahmedabad. The Conference was hosted by Space Application Centre, Ahmedabad and Organised by ISSE Ahmedabad Chapter
+We were selected to present our work at the Students' Special Symposium Indian Society Of Systems For Science And Engineering (ISSE) National Conference-4 (INAC) at Space Application Centre,  Indian Space Research Organisation (ISRO), Ahmedabad. The Conference was hosted by Space Application Centre, Ahmedabad and Organised by ISSE Ahmedabad Chapter.
 
 The theme of the conference was "Systems for Transforming India : Challenges & Opportunities"
 
