@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kisan Call Centre Data Analysis"
+title:  "About the project: Kisan Call Centre Data Analysis"
 date:   2021-12-03 23:10:00
 blurb: "About the project"
 og_image: /assets/img/content/post-example/Banner.jpg

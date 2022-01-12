@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Genre Classification for shorter texts"
+title:  "About the project: Genre Classification for shorter texts"
 date:   2021-12-02 23:10:00
 blurb: "About the project"
 og_image: /assets/img/content/post-example/Banner.jpg

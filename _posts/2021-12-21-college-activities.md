@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Extra-curricular College Activities"
+title:  "Extra-curricular College Activities (Record)"
 date:   2021-12-21 23:10:00
 blurb: "About"
 ---

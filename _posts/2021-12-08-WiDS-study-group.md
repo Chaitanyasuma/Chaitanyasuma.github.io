@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Women in Data Science Conference"
+title:  "Volunteering Experience for Women in Data Science Conference (WiDS)"
 date:   2021-12-08 23:10:00
 blurb: "About the project"
 og_image: /assets/img/content/post-example/Banner.jpg

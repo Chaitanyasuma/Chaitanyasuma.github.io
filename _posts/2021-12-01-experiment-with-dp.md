@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Experiment with Differential Privacy using IBM's Diffprivlib"
+title:  "About the project: Experiment with Differential Privacy using IBM's Diffprivlib"
 date:   2021-12-01 23:10:00
 blurb: "About"
 ---
@@ -65,7 +65,7 @@ During the course of this project, we worked on the following -
   We performed an extensive empirical analysis of different percentile calculation methods, including our own extended Optimal Histogram method.
   <br />
 
-We also presented our work to Security Division, IBM Bangalore. We also presented our work to Dr. Naoise Holohan, one of the leading developers of Diffprivlib. The feedback was amazing and it was very fulfilling to show our work to seniors from industry. 
+We also presented our work to Security Division, IBM Bangalore. We also presented our work to Dr. Naoise Holohan, one of the leading developers of Diffprivlib. The feedback was amazing and it was very fulfilling to show our work to seniors from industry.
 
 #### Important Links
 

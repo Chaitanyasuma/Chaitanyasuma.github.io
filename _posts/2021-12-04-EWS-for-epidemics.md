@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Early Warning System for Epidemics"
+title:  "About the project: Early Warning System for Epidemics"
 date:   2021-12-04 23:10:00
 blurb: "About the project"
 og_image: /assets/img/content/post-example/Banner.jpg
