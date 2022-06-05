@@ -10,11 +10,11 @@ profile_picture:
 </p>
 <p>
 <div align="justify">
-  My research interests lie in the domain of Natural Language Processing for Computational Linguistics and Computational Social Sciences.  I am also intrigued by privacy-preserving data mining techniques. In particular, I have worked on Differential Privacy for Statistical Analysis and Data Visualisation.
+  I care about all things data. I consider story-telling to be my best skill and data, my best friend. With previous research experience in Data mining, Data Analysis, Data Visualisation & Data Privacy, I have laid my hands on data from various sources leading to actionable insights in various domains. I am interested in further pursuing Data-driven problem solving.
 </div>
 </p>
 <div align="justify">
-  My hobbies include graphic designing, digital art, photography, painting, and reading. Occassionally, I write.
+  My hobbies include hill climbing, graphic designing, digital art, photography, painting, and reading. Occassionally, I write.
 </div>
 <br>
 
