@@ -11,7 +11,7 @@ profile_picture:
 </div>
 </p>
 <div align="justify">
-  I really enjoy investing my time in creative outlets. I love to use my ability to gadget and draw straight lines (sometimes) to indulge in graphic designing, digital art, photography, and painting. I love to read and I'm always up for good old retellings of family and friendship. And even though it requires immense courage, occassionally, I write.
+  I really enjoy investing my time in creative outlets. I use my ability to gadget and draw straight lines (sometimes) to indulge in graphic designing, digital art, photography, and painting. I love to read and I'm always up for good old retellings of family and friendship. And even though it requires immense courage, occassionally, I write.
 </div>
 <br>
 
