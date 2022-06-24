@@ -4,10 +4,6 @@ profile_picture:
   src: /assets/img/profile_picture.JPG
   alt: website picture
 ---
-
-<p>
-  Hi I am Chaitanyasuma Jain.
-</p>
 <p>
 <div align="justify">
   I believe that I thrive in environments that challenge my ability to innovate. This is an observation I have made, and a conclusion I have drawn after having delved into several problem-solving activities in the years of pursuing my education. Of these, the endeavors that excited me the most involved some form of data-based analysis and storytelling. I have extensively worked in theoretical and applied Data Visualisation, Data Privacy and Data Mining.
