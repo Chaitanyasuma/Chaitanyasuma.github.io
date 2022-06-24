@@ -10,11 +10,12 @@ profile_picture:
 </p>
 <p>
 <div align="justify">
-  I care about all things data. I consider story-telling to be my best skill and data, my best friend. With previous research experience in Data mining, Data Analysis, Data Visualisation & Data Privacy, I have laid my hands on data from various sources leading to actionable insights in various domains. I am interested in further pursuing Data-driven problem solving.
+  I believe that I thrive in environments that challenge my ability to innovate. This is an observation I have made, and a conclusion I have drawn after having delved into several problem-solving activities in the years of pursuing my education. Of these, the endeavors that excited me the most involved some form of data-based analysis and storytelling. I have extensively worked in theoretical and applied Data Visualisation, Data Privacy and Data Mining.
+  Broadly, I can summarise my professional ambition using three words : Research in Data.
 </div>
 </p>
 <div align="justify">
-  My hobbies include hill climbing, graphic designing, digital art, photography, painting, and reading. Occassionally, I write.
+  I really enjoy investing my time in creative outlets. I love to use my ability to gadget and draw straight lines (sometimes) to indulge in graphic designing, digital art, photography, and painting. I love to read and I'm always up for good old retellings of family and friendship. And even though it requires a lot of courage, occassionally, I write.
 </div>
 <br>
 
