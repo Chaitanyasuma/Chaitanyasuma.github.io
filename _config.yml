@@ -14,8 +14,6 @@ header:
     - name: Home
       slug: /
     - name: Projects
-    - name: Publications
-      slug: /publications
     - name: Blog
     - name: Pursuits
 
