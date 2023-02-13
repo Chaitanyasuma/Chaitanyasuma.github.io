@@ -8,6 +8,7 @@ baseurl: "" # the subpath of the site
 url: "https://chaitanyasuma.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
+
 header:
   pages:
     - name: Home
