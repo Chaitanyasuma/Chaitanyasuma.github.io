@@ -22,6 +22,9 @@ footer:
     - name: Email
       value: chaitanyasuma@gmail.com
       link: mailto:chaitanyasuma@gmail.com
+    - name: Alternate Email
+      value: jain.chaitanyasuma@gmail.com
+      link: mailto:jain.chaitanyasuma@gmail.com
   follow:
     - name: Twitter
       link: http://twitter.com/chaitanyasumaa
