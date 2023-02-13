@@ -13,6 +13,7 @@ header:
     - name: Home
       slug: /
     - name: Projects
+    - name: Publications
     - name: Blog
     - name: Pursuits
 
@@ -22,7 +23,7 @@ footer:
     - name: Email
       value: chaitanyasuma@gmail.com
       link: mailto:chaitanyasuma@gmail.com
-    - name: Alternate Email
+    - name: Email
       value: jain.chaitanyasuma@gmail.com
       link: mailto:jain.chaitanyasuma@gmail.com
   follow:
