@@ -26,3 +26,14 @@ profile_picture:
 2015 - 2017 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higher Secondary Certificate <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fergusson College, Pune
+
+---
+<br>
+### Recent Updates
+
+<dl>
+  <dt>13 February 2023 - **Best Paper Award!**</dt>
+  <dd>Received the [Best Paper Award at IEEE ICAECT 2023](http://icaect.com/wp-content/uploads/2023/02/Best-Paper_ICAECT_2023.pdf) for my paper "A Novel Approach Using Extractive and Abstractive Summarization for the Genre Classification of Short Text"</dd>
+  <dt>29 August 2022 - **Joined MongoDB India**</dt>
+  <dd>Onboarded as a Software Engineer in the Data Platform Engineering team!</dd>
+</dl>
