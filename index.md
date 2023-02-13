@@ -17,6 +17,28 @@ profile_picture:
 
 ---
 <br>
+### Recent Updates
+
+13 February 2023 - <b>Best Paper Award!</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Received the <a href="http://icaect.com/wp-content/uploads/2023/02/Best-Paper_ICAECT_2023.pdf">Best Paper Award at IEEE ICAECT 2023</a> for the paper "A Novel Approach Using Extractive and Abstractive Summarization for the Genre Classification of Short Text"
+<br><br>
+29 August 2022 - <b>Joined MongoDB India</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Onboarded as a Software Engineer in the Data Platform Engineering team
+
+---
+<br>
+### Work Experience
+
+2022 - Present <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer II, Data Platform <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MongoDB India
+<br><br>
+2015 - 2017 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Walmart Global Tech India
+
+---
+<br>
 ### Educational Background
 
 2017 - 2021 <br>
@@ -26,13 +48,3 @@ profile_picture:
 2015 - 2017 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higher Secondary Certificate <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fergusson College, Pune
-
----
-<br>
-### Recent Updates
-
-13 February 2023 - <b>Best Paper Award!</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Received the <a href="http://icaect.com/wp-content/uploads/2023/02/Best-Paper_ICAECT_2023.pdf">Best Paper Award at IEEE ICAECT 2023</a> for the paper "A Novel Approach Using Extractive and Abstractive Summarization for the Genre Classification of Short Text"
-<br><br>
-29 August 2022 - <b>Joined MongoDB India</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Onboarded as a Software Engineer in the Data Platform Engineering team
