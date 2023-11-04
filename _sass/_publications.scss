@@ -1,17 +1,12 @@
-.publications-item {
+.projects-item {
   clear: both;
   overflow: hidden;
   padding-bottom: 3em;
 }
 
-.title {
-  font-size: 40px;
-  letter-spacing: -1px;
-  line-height: 1.2;
-
-  font-family: $base-font-family;
-
-  @include media-query($on-mobile) {
-    font-size: 34px;
-  }
+.projects-bubble {
+  float: left;
+  padding-right: 20px;
+  width: 100px;
+  height: 100px;
 }

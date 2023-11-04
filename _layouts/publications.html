@@ -8,21 +8,7 @@
     <div class="page-content" style="padding-top:15vh;">
       <div class="wrapper">
         <div class="publications">
-
-          {% for item in page.items %}
-          <div class="publications-item">
-            <span class="publications-text">
-              <span class="publications-title">
-                <strong>{{ item.title }}</strong>
-              </span>
-              &mdash;
-              <span>
-                {{ item.description }}
-              </span>
-            </span>
-          </div>
-          {% endfor %}
-        </div>
+          {{ content }}
 
         </div>
       </div>
