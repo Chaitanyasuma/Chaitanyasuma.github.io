@@ -8,7 +8,20 @@
     <div class="page-content" style="padding-top:15vh;">
       <div class="wrapper">
         <div>
-          {{ content }}
+
+          {% for item in page.items %}
+          <div class="projects-item">
+            <span>
+              <span>
+                <strong>{{ item.title }}</strong>
+              </span>
+              &mdash;
+              <span>
+                {{ item.description }}
+              </span>
+            </span>
+          </div>
+          {% endfor %}
         </div>
 
         </div>
