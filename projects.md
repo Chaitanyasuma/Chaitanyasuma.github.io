@@ -9,6 +9,7 @@ items:
     description: Published as part of conference profeedings of PuneCon 2020 in IEEE Xplore
   - title: <a href="https://link.springer.com/book/10.1007/978-981-33-4312-2">Open Data for Sustainable Community: Glocalized Sustainable Development Goals</a>
     description: Contributed to the chapter on Resilient Agriculture, published by Springer Nature, 2021
+
 ---
 <br />
 <br />
