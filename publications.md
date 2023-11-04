@@ -2,8 +2,6 @@
 layout: publications
 title: Publications
 slug: /publications
----
-Under construction!
 items:
   - title: A Novel Approach Using Extractive and Abstractive Summarization for the Genre Classification of Short Text
     description: Presented at IEEE ICAECT 2023, also won the Best Paper Award!

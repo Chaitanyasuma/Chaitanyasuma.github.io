@@ -7,12 +7,16 @@ profile_picture:
 # TODO: Change blurb + image
 <p>
 <div align="justify">
-  I believe that I thrive in environments that challenge my ability to innovate. This is an observation I have made, and a conclusion I have drawn after having delved into several problem-solving activities in the years of pursuing my education. Of these, the endeavors that excited me the most involved some form of data-based analysis and storytelling. I have extensively worked in theoretical and applied Data Visualisation, Data Privacy and Data Mining.
-  Broadly, I can summarise my professional ambition using three words : Research in Data.
+  Hello! I am a graduate student at the University of Wisconsin-Madison. I am pursuing my Masters degree in Computer Science with a focus on data-driven systems. In particular, I am interested in three main aspects of such systems - optimising for analytical processing workloads, privacy-preserving data analysis and querying, and accessibility.
+
+  I completed my undergraduate degree in Computer Engineering in 2021, after which I worked as a Software Engineer at Walmart Global Tech in the Order Management Systems team. At Walmart, I worked with user-facing systems that handled large amounts of legacy data and business logic. Keen on exploring the developments in systems that consumed this data, I moved to MongoDB in the capacity of a Software Engineer in the Data Platform Engineering team. At MongoDB, I gained all-round experience working with enterprise data management systems, also scratching the surface of systems for Machine Learning (ML). Much of my research focus today is a result of these two experiences.
+
 </div>
 </p>
 <div align="justify">
-  I really enjoy investing my time in creative outlets. I use my ability to gadget and draw straight lines (sometimes) to indulge in graphic designing, digital art, photography, and painting. I love to read and I'm always up for good old retellings of family and friendship. And even though it requires immense courage, occassionally, I write.
+  I believe that I thrive in environments that challenge my ability to innovate. This is an observation I have made after having delved into problem-solving activities in the years of pursuing my education and working in the industry. Of these, the endeavors that excited me the most involved some form of data-based analysis and storytelling. 
+
+  I enjoy investing my time in creative outlets. I use my ability to gadget and draw straight lines (sometimes) to indulge in graphic designing, digital art, photography, and painting. I love to read and I'm always up for good old retellings of family and friendship. And even though it requires immense courage, occassionally, I write.
 </div>
 <br>
 
