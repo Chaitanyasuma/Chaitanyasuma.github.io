@@ -4,13 +4,13 @@ profile_picture:
   src: /assets/img/profile_picture.JPG
   alt: website picture
 ---
+# TODO: Change blurb + image
 <p>
 <div align="justify">
   Hello! I am a graduate student at the University of Wisconsin-Madison. I am pursuing my Masters degree in Computer Science with a focus on data-driven systems. In particular, I am interested in three main aspects of such systems - optimising for analytical processing workloads, privacy-preserving data analysis and querying, and accessibility.
-</div>
 
-<div align="justify">  
   I completed my undergraduate degree in Computer Engineering in 2021, after which I worked as a Software Engineer at Walmart Global Tech in the Order Management Systems team. At Walmart, I worked with user-facing systems that handled large amounts of legacy data and business logic. Keen on exploring the developments in systems that consumed this data, I moved to MongoDB in the capacity of a Software Engineer in the Data Platform Engineering team. At MongoDB, I gained all-round experience working with enterprise data management systems, also scratching the surface of systems for Machine Learning (ML). Much of my research focus today is a result of these two experiences.
+
 </div>
 </p>
 <div align="justify">
