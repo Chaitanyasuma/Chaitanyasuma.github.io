@@ -14,15 +14,15 @@ header:
     - name: Home
       slug: /
     - name: Projects
-    - name: Blog
-    - name: Pursuits
+    # - name: Blog
+    - name: Publications
 
 footer:
   show_powered_by: false
   contact:
-    - name: Email
-      value: chaitanyasuma@gmail.com
-      link: mailto:chaitanyasuma@gmail.com
+    # - name: Email
+    #   value: chaitanyasuma@gmail.com
+    #   link: mailto:chaitanyasuma@gmail.com
     - name: Email
       value: jain.chaitanyasuma@gmail.com
       link: mailto:jain.chaitanyasuma@gmail.com
